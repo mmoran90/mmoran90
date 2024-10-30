@@ -11,8 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/marvin-moran-mba-a45509104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marvin-moran-mba-a45509104" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/marvinmoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marvinmoran" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/marvin-moran-mba-a45509104" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; transition: transform 0.2s;"/>
+    </a>
+    <a href="https://kaggle.com/marvinmoran" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="40" width="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; transition: transform 0.2s;"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
