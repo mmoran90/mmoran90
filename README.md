@@ -7,9 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://marvin92000.wixsite.com/marvin-moran](https://marvin92000.wixsite.com/marvin-moran)
 
-- 💬 Ask me about **Python, R, SQL, Tableau, Power BI, and much more!**
+- ⚙️ **Commonly Used Tools**: Python, R, SQL, Tableau, Power BI, SQL, AWS SageMaker, VS Code, and  many more!
 
-- 📫 How to reach me **marvin92000@yahoo.com**
+- 📊 **Data Science & Machine Learning**:
+    - **Data Analysis**: Exploratory Data Analysis (EDA), Feature Engineering, Data Cleaning, Data Wrangling, Text Mining (Sentiment Analysis, Topic Modeling, Tokenization)
+    - **Machine Learning**: Supervised & Unsupervised Learning, Classification, Regression, Clustering, Ensemble Methods, Natural Language Processing (NLP)
+    - **Deep Learning**: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transfer Learning
+    - **Data Visualization**: Matplotlib, Seaborn, Plotly, Dash, Interactive Dashboards
+    - **Statistical Modeling**: Hypothesis Testing, Probability Distributions, A/B Testing, Bayesian Inference
+    - **Predictive Analytics**: Time Series Forecasting, Recommendation Systems, Anomaly Detection
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
