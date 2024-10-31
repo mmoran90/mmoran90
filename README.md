@@ -1,86 +1,44 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35">, I'm Marvin</h1>
-<h3 align="center">An individual passionate about all things business, automation, and data science.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Marvin</h1>
+<h3 align="center">Business, Automation, and Data Science Enthusiast</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mmoran90&label=Profile%20views&color=0e75b6&style=flat" alt="mmoran90" />
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python">
+    <img src="https://img.shields.io/badge/R-Experienced-orange" alt="R">
+    <img src="https://img.shields.io/badge/Tableau-Data%20Viz-yellowgreen" alt="Tableau">
+    <img src="https://img.shields.io/badge/SQL-Analyst-red" alt="SQL">
 </p>
 
-- 👨‍💻 All of my projects are available at [https://marvin92000.wixsite.com/marvin-moran](https://marvin92000.wixsite.com/marvin-moran)
+## 🌟 About Me
+I'm a dedicated data scientist with a passion for transforming data into actionable insights. From predictive modeling to data visualization, I love tackling complex business challenges through data-driven solutions.
 
-- ⚙️ **Commonly Used Tools**: Python, R, SQL, Tableau, Power BI, SQL, AWS SageMaker, VS Code, and  many more!
+---
 
-- 📊 **Data Science & Machine Learning**:
-    - **Data Analysis**: Exploratory Data Analysis (EDA), Feature Engineering, Data Cleaning, Data Wrangling, Text Mining (Sentiment Analysis, Topic Modeling, Tokenization)
-    - **Machine Learning**: Supervised & Unsupervised Learning, Classification, Regression, Clustering, Ensemble Methods, Natural Language Processing (NLP)
-    - **Deep Learning**: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transfer Learning
-    - **Data Visualization**: Matplotlib, Seaborn, Plotly, Dash, Interactive Dashboards
-    - **Statistical Modeling**: Hypothesis Testing, Probability Distributions, A/B Testing, Bayesian Inference
-    - **Predictive Analytics**: Time Series Forecasting, Recommendation Systems, Anomaly Detection
+## 📂 My Projects
+Explore my portfolio and projects that showcase my skills in data science, machine learning, and business automation:
+- [Project Portfolio](https://marvin92000.wixsite.com/marvin-moran)
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tools & Technologies
+- **Languages**: Python, R, SQL, Mongo, VBA, DAX
+- **Data Science Platforms**: AWS SageMaker, Azure, Google Colab, Jupyter Notebook, Pycharm, Microsoft VS Code, GitHub Desktop
+- **Visualization**: Tableau, Power BI, Atlas, Minitab, Data Studio
+- **Machine Learning**: Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, and many more
+- **Database**: MySQL, MSSQL, SQL Bench, PostgreSQL, MongoDB
+
+## 💬 Ask Me About
+- Data Analysis, Data Science, Machine Learning, Airtificial Intelligence (AI), Predictive Modeling, Prescriptive Modeling, Text Mining, and Business Automation
+
+## 📫 Connect with Me
 <p align="left">
     <a href="https://linkedin.com/in/marvin-moran-mba-a45509104" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" width="40" style="border-radius: 8px; padding: 5px;"/>
     </a>
     <a href="https://kaggle.com/marvinmoran" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="40" width="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
+        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="40" width="40" style="border-radius: 8px; padding: 5px;"/>
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-        <img src="https://www.svgrepo.com/show/354478/azure-icon.svg" alt="Azure" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://ifttt.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/ifttt/000000" alt="IFTTT" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
-    <a href="https://zapier.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="40" height="40" style="border-radius: 50%; background: #f0f0f0; padding: 5px; margin: 15px;"/>
-    </a>
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmoran90&show_icons=true&locale=en&layout=compact" alt="mmoran90" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmoran90&show_icons=true&locale=en&layout=compact" alt="mmoran90" /></p>
-
