@@ -9,7 +9,7 @@
 </p>
 
 ## 🌟 About Me
-I'm a data scientist and aspiring AI engineer passionate about solving real-world problems using **machine learning, natural language processing**, and **computer vision**. I specialize in building **end-to-end solutions** — from cleaning raw data to deploying models with **FastAPI**, **Streamlit**, and **Azure services**.
+I'm a data scientist and aspiring AI engineer passionate about solving real-world problems using **machine learning, natural language processing**, and **computer vision**. I specialize in building **end-to-end solutions** — from cleaning raw data to deploying models with technologies such as **FastAPI**, **Streamlit**, and **Azure services**.
 
 ---
 
