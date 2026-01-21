@@ -1,33 +1,49 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Marvin</h1>
-<h3 align="center">Business, Automation, and Data Science Enthusiast</h3>
+<h3 align="center">AI Engineer & Data Scientist | Building Solutions with ML, Vision & Automation</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python">
-    <img src="https://img.shields.io/badge/R-Experienced-orange" alt="R">
-    <img src="https://img.shields.io/badge/Tableau-Data%20Viz-yellowgreen" alt="Tableau">
-    <img src="https://img.shields.io/badge/SQL-Analyst-red" alt="SQL">
+    <img src="https://img.shields.io/badge/SQL-Advanced-red" alt="SQL">
+    <img src="https://img.shields.io/badge/Azure-Vision-blueviolet" alt="Azure">
+    <img src="https://img.shields.io/badge/ML-&-Deployment-brightgreen" alt="ML">
 </p>
 
 ## 🌟 About Me
-I'm a dedicated data scientist with a passion for transforming data into actionable insights. From predictive modeling to data visualization, I love tackling complex business challenges through data-driven solutions.
+I'm a data scientist and aspiring AI engineer passionate about solving real-world problems using **machine learning, natural language processing**, and **computer vision**. I specialize in building **end-to-end solutions** — from cleaning raw data to deploying models with **FastAPI**, **Streamlit**, and **Azure services**.
 
 ---
 
-## 📂 My Projects
-Explore my portfolio and projects that showcase my skills in data science, machine learning, and business automation:
-- [Project Portfolio](https://marvin92000.wixsite.com/marvin-moran)
+## 📂 Featured Projects
+Check out my hands-on projects that combine data science with AI deployment:
+
+- 🎯 **Customer Support Ticket Classifier** – NLP + FastAPI + Streamlit UI  
+- 🧠 **Azure Vision Image Analyzer** – Computer vision using Azure SDK  
+- 🔁 **ML Model Deployment Pipeline** – FastAPI + Docker-ready serving  
+- 📁 [**Explore My Full Portfolio**](https://marvin92000.wixsite.com/marvin-moran)
+
+---
 
 ## 🛠️ Tools & Technologies
-- **Languages**: Python, R, SQL, Mongo, VBA, DAX
-- **Data Science Platforms**: AWS SageMaker, Azure, Google Colab, Jupyter Notebook, Pycharm, Microsoft VS Code, GitHub Desktop
-- **Visualization**: Tableau, Power BI, Atlas, Minitab, Data Studio
-- **Machine Learning**: Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, and many more
-- **Database**: MySQL, MSSQL, SQL Bench, PostgreSQL, MongoDB
+
+- **Languages**: Python, SQL, R, DAX, VBA  
+- **AI/ML**: Scikit-Learn, TensorFlow, PyTorch, Hugging Face, OpenCV  
+- **Deployment**: FastAPI, Streamlit, Docker, Azure (Vision, ML)  
+- **Visualization**: Tableau, Power BI, Minitab, Data Studio  
+- **Platforms**: Jupyter, VS Code, GitHub, Azure Portal, Google Colab  
+- **Databases**: PostgreSQL, MySQL, SQL Server, MongoDB
+
+---
 
 ## 💬 Ask Me About
-- Data Analysis, Data Science, Machine Learning, Airtificial Intelligence (AI), Predictive Modeling, Prescriptive Modeling, Text Mining, and Business Automation
+- Machine Learning & NLP  
+- Computer Vision (Azure Vision SDK)  
+- Model Deployment & API Design  
+- Business Automation & Data-Driven Insights
+
+---
 
 ## 📫 Connect with Me
+
 <p align="left">
     <a href="https://linkedin.com/in/marvin-moran-mba-a45509104" target="_blank">
         <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" width="40" style="border-radius: 8px; padding: 5px;"/>
