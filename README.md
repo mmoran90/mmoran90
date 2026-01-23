@@ -19,7 +19,7 @@ Check out my hands-on projects that combine data science with AI deployment:
 - 🎯 **Customer Support Ticket Classifier** – NLP + FastAPI + Streamlit UI  
 - 🧠 **Azure Vision Image Analyzer** – Computer vision using Azure SDK  
 - 🔁 **ML Model Deployment Pipeline** – FastAPI + Docker-ready serving  
-- 📁 [**Explore My Full Portfolio**](https://marvin92000.wixsite.com/marvin-moran)
+- 📁 [**Explore My Full Portfolio**]([https://marvin92000.wixsite.com/marvin-moran](https://emboss-sweat-62052368.figma.site/))
 
 ---
 
